@@ -1,3 +1,11 @@
 # git-practice-014
 
-## ben's branch
+## Project Team Members:
+* Benjamin Niesmertelny
+* Tyler Huynh
+* Spencer Huey
+* Brady Stark
+* Andy Strong
+
+
+*some changes*
