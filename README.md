@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # git-practice-014
 Project Team Members:
-Andy Strong.
-Test
+Andy Strong
+Brady Stark
