@@ -1,5 +1,6 @@
 # git-practice-014
 
+<<<<<<< HEAD
 ## Project Team Members:
 * Benjamin Niesmertelny
 * Tyler Huynh
@@ -9,3 +10,9 @@
 
 
 *some changes*
+=======
+
+*some changes*
+**MERGE CONFLICT**
+
+>>>>>>> main
